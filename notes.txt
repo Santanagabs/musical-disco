@@ -1,4 +1,4 @@
 C:\Users\DELL\AppData\Local\Programs\Microsoft VS Code
-
-teste
-textos
+adicionei
+mais
+linhas
